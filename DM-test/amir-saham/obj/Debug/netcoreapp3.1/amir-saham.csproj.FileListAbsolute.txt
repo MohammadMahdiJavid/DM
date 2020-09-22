@@ -1,0 +1,11 @@
+C:\git\DM\amir-saham\bin\Debug\netcoreapp3.1\amir-saham.exe
+C:\git\DM\amir-saham\bin\Debug\netcoreapp3.1\amir-saham.deps.json
+C:\git\DM\amir-saham\bin\Debug\netcoreapp3.1\amir-saham.runtimeconfig.json
+C:\git\DM\amir-saham\bin\Debug\netcoreapp3.1\amir-saham.runtimeconfig.dev.json
+C:\git\DM\amir-saham\bin\Debug\netcoreapp3.1\amir-saham.dll
+C:\git\DM\amir-saham\bin\Debug\netcoreapp3.1\amir-saham.pdb
+C:\git\DM\amir-saham\obj\Debug\netcoreapp3.1\amir-saham.csprojAssemblyReference.cache
+C:\git\DM\amir-saham\obj\Debug\netcoreapp3.1\amir-saham.AssemblyInfoInputs.cache
+C:\git\DM\amir-saham\obj\Debug\netcoreapp3.1\amir-saham.AssemblyInfo.cs
+C:\git\DM\amir-saham\obj\Debug\netcoreapp3.1\amir-saham.dll
+C:\git\DM\amir-saham\obj\Debug\netcoreapp3.1\amir-saham.pdb
